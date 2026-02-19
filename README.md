@@ -5,20 +5,14 @@ IoT-based wearable health monitoring and fall detection system using ESP8266
 ## 📸 Project Images
 
 ### 🩺 Heart Rate & SpO2 Reading
-![HR and SpO2](HR and SpO2 Reading.jpeg)
-
-
-### 🔧 Internal Components
-![Internal Components](Internal Components.jpeg)
-
+![HR and SpO2](HR and SpO₂ Reading.jpeg)
 
 ### 💊 Medicine Reminder
-![Medicine Reminder](Medicine_Reminder.jpeg)
-
+![Medicine Reminder](Medicine Reminder.jpeg)
 
 ### 🚨 Fall Detection Test
 ![Fall Detection](fall_detection_test.jpeg)
 
 ### 🔧 Internal Components
-![Internal Components](Internal_Components.jpeg)
+![Internal Components](Internal Components.jpeg)
 
