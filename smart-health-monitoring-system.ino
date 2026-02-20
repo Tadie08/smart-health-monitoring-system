@@ -8,9 +8,9 @@
 #include <WiFiClient.h>
 
 /************ WIFI CONFIG ************/
-const char* WIFI_SSID = "Tadie";
-const char* WIFI_PASSWORD = "Tadiwanashe";
-const char* PI_IP_ADDRESS = "192.168.1.100"; // Update with your Pi's IP
+const char* WIFI_SSID = "YOUR_WIFI_NAME";
+const char* WIFI_PASSWORD = "YOUR_PASSWORD";
+const char* PI_IP_ADDRESS = "xxx.xxx.x.xxx"; // Update with your Pi's IP
 const int PI_PORT = 5000;
 const unsigned long WIFI_RETRY_INTERVAL = 10000;
 const unsigned long PI_RECONNECT_INTERVAL = 15000;
